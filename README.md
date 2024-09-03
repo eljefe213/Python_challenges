@@ -4,4 +4,4 @@ Bienvenue dans mon projet **Python Challenges** ! Ce dépôt contient plusieurs 
 
 ## Structure du projet
 
-Le projet est structuré en plusieurs fichiers, chacun correspondant à un challenge ou un ensemble de challenges sur un concept spécifique de Python.
+Le projet est structuré en plusieurs fichiers, chacun correspondant à un challenge ou un ensemble de challenges sur un concept spécifique de Python ( les boucles, les fonctions, les variables, la manipulation de chaînes de caractères et plus encore ).
